@@ -1,0 +1,57 @@
+.bg1{
+    background-image: url("images/hero/hero-1.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg2{
+    background-image: url("images/hero/hero-2.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner1{
+position: relative;
+}
+.overlay{
+    position: absolute;
+    transform: translate(-50px -50px);
+    top: 40%;
+    right: 35%;
+}
+
+
+
+.bgme{
+    background-color: #f3f2ee;
+    /* height: 80vh; */
+}
+.dark{
+    background-color: black;
+}
+.arpit{
+    background-color: #f3f2ee;
+    /* height: 20vh; */
+}
+.sawa{
+    background-color: #f3f2ee;
+    height: 80vh;
+
+
+}
+.doori{
+    background-image: url("images/about/testimonial-pic.jpg");
+    height: 80vh;
+    background-size: cover;
+}
+.MAP{
+    background-image: url("");
+}
+
+.ustad{
+    background-image: url("images/breadcrumb-bg.jpg");
+    height: 40vh;
+}
